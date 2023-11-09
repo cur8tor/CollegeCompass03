@@ -1,0 +1,90 @@
+.next-steps .fa-link {
+  margin-right: 5px;
+}
+
+/* Fix for use only flexbox in content area */
+.next-steps .row {
+  margin-bottom: 0;
+}
+
+.next-steps .col-md-5 {
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 768px) {
+  .next-steps .col-md-5 {
+    margin-bottom: 0;
+  }
+}
+
+.spinner {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.result-block-container .result-block {
+  opacity: 1;
+}
+
+.table-container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.table-container h1 {
+  text-align: left;
+  margin-bottom: 14px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+table, th, td {
+  border: 1px solid #e0e0e0;
+}
+
+th, td {
+  padding: 10px 15px;
+  text-align: left;
+}
+
+th button {
+  background-color: transparent;
+  border: none;
+  color: #555;
+  font-weight: bold;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+}
+
+th button:hover {
+  color: #000;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+tbody tr:hover {
+  background-color: #f0f0f0;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
