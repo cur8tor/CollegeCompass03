@@ -3,6 +3,8 @@
 Tanner Martz and Devin Gutierrez
 Advised by Dr. Hassan and Dr. Maus
 
+DOC LINK: https://docs.google.com/document/d/13uXQH3sQOmM2NVH-ezXrcfqoE5x-WkuhJJE8hPAu91s/edit?usp=sharing 
+
 This is Milestone 03 for the Computer Science Coordinate Major at Tulane University.
 Our project is a web application that is an improvement on the current degree audit that is offered to students.
 The improvements include better visualization so students can plan their courses better, and a more user friendly interface.
