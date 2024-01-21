@@ -52,7 +52,7 @@ const NavBar = () => {
                   exact
                   activeClassName="router-link-exact-active"
                 >
-                  College Compass
+                  College44Compass
                 </NavLink>
               </NavItem>
               {isAuthenticated && (
