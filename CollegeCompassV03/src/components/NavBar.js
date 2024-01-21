@@ -63,7 +63,7 @@ const NavBar = () => {
                     exact
                     activeClassName="router-link-exact-active"
                   >
-                    External API
+                    External APIIII
                   </NavLink>
                 </NavItem>
               )}
